@@ -1,0 +1,7 @@
+name: PluginBlueprint
+version: 1.0.0
+author: inventivetalent
+main: net.pluginblueprint.livereload.Main
+commands:
+  pluginblueprint:
+    usage: "/pluginblueprint <enable|disable|reload|load|unload> <plugin>"
